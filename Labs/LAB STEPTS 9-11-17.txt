@@ -1,0 +1,24 @@
+lab for today
+
+
+------LAB PART  I ----- 40 MINUTES 
+first read the chapter topics as told you in class till 4.4
+
+Read slides
+
+Then move towards lab folder and open file practice first 
+
+
+First of all write its Pseudocode and draw its flowchart 
+
+Then code as it is provided in the file 
+
+try to test your program with different input values 
+
+
+------LAB PART  II ----- 1 HOUR FOR REMAINING LAB 
+
+
+FOR PART II YOU NEED TO OPEN FILE NAMED AS "LAB EXERCIESE- CONDITIONS"
+
+AND FOLLOW THE INSTRUCTIONS AS IN THIS FILE. 
